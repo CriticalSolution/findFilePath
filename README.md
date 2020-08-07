@@ -1,4 +1,5 @@
 # findFilePath
+
 A file's both relative and full path can be seen. 
 
 # How to use?
@@ -13,8 +14,9 @@ A file's both relative and full path can be seen.
 
 3. See result
 
-relative path : 
-full path : 
+  relative path : 
+
+  full path : 
 
 # Questions?
 
