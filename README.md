@@ -17,3 +17,8 @@ fileName
 relative path : 
 full path : 
 
+# Questions?
+
+Feel free for any suggestions, bugs, recommendations or improvements.
+
+# THANKS
