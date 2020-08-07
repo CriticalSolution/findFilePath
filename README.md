@@ -1,2 +1,19 @@
 # findFilePath
 A file's both relative and full path can be seen. 
+
+# How to use?
+
+1. Run "./findFilePath.sh"
+
+2. Write answer
+
+Enter path :
+../
+Enter file name :
+fileName
+
+3. See result
+
+relative path : 
+full path : 
+
