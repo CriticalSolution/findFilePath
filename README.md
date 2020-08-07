@@ -7,10 +7,9 @@ A file's both relative and full path can be seen.
 
 2. Write answer
 
-Enter path :
-../
-Enter file name :
-fileName
+  Enter path :
+
+  Enter file name :
 
 3. See result
 
